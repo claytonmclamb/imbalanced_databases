@@ -6,4 +6,4 @@ Created on Fri May 18 23:59:46 2018
 @author: gykovacs
 """
 
-from .imbd import *
+from ._imbd import *
